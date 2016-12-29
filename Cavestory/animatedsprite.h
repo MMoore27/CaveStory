@@ -61,7 +61,7 @@ protected:
 	/*void animationDone
 	*required logic that happens when an animation ends
 	*/
-	virtual void animationDone(std::string currentAnimation);
+	virtual void animationDone(std::string currentAnimation)=0;
 
 	/*
 	*A required function that sets up all animations for a sprite

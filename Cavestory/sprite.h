@@ -20,7 +20,8 @@ public:
 protected:
 	SDL_Rect _sourceRect;
 	SDL_Texture* _spriteSheet;
-private:
 	float _x, _y;
+private:
+	
 };
 #endif
