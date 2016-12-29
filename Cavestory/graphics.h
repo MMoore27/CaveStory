@@ -7,9 +7,11 @@ Holds all information dealing with the graphics for the game
 */
 #include <map>
 #include <string>
+#include<SDL\SDL.h>
 
 struct SDL_Window;
 struct SDL_Renderer;
+
 
 class Graphics {
 public:
