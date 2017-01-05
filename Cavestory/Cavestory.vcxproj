@@ -18,6 +18,31 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="animatedsprite.h" />
+    <ClInclude Include="game.h" />
+    <ClInclude Include="globals.h" />
+    <ClInclude Include="graphics.h" />
+    <ClInclude Include="input.h" />
+    <ClInclude Include="level.h" />
+    <ClInclude Include="player.h" />
+    <ClInclude Include="rectangle.h" />
+    <ClInclude Include="sprite.h" />
+    <ClInclude Include="tile.h" />
+    <ClInclude Include="tinyxml2.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="animatedSprite.cpp" />
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="graphics.cpp" />
+    <ClCompile Include="input.cpp" />
+    <ClCompile Include="level.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="player.cpp" />
+    <ClCompile Include="sprite.cpp" />
+    <ClCompile Include="tile.cpp" />
+    <ClCompile Include="tinyxml2.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{7D1DF615-A657-4065-B648-3E51F3B93D11}</ProjectGuid>
     <RootNamespace>Cavestory</RootNamespace>
@@ -116,30 +141,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="animatedSprite.cpp" />
-    <ClCompile Include="game.cpp" />
-    <ClCompile Include="graphics.cpp" />
-    <ClCompile Include="input.cpp" />
-    <ClCompile Include="level.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="player.cpp" />
-    <ClCompile Include="sprite.cpp" />
-    <ClCompile Include="tile.cpp" />
-    <ClCompile Include="tinyxml2.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="animatedsprite.h" />
-    <ClInclude Include="game.h" />
-    <ClInclude Include="globals.h" />
-    <ClInclude Include="graphics.h" />
-    <ClInclude Include="input.h" />
-    <ClInclude Include="level.h" />
-    <ClInclude Include="player.h" />
-    <ClInclude Include="sprite.h" />
-    <ClInclude Include="tile.h" />
-    <ClInclude Include="tinyxml2.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

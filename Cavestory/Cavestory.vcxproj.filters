@@ -15,67 +15,70 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="graphics.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="game.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="input.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="sprite.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="animatedSprite.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="player.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="level.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="tinyxml2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="tile.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="graphics.h">
+    <ClInclude Include="animatedsprite.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="input.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="sprite.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="globals.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="animatedsprite.h">
+    <ClInclude Include="graphics.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="player.h">
+    <ClInclude Include="input.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="level.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="tinyxml2.h">
+    <ClInclude Include="player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rectangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sprite.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="tile.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="tinyxml2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="animatedSprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graphics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="level.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

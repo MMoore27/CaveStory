@@ -1,5 +1,39 @@
-﻿  game.cpp
-d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\game.cpp(79): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
-d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\game.cpp(98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+﻿  tinyxml2.cpp
+  tile.cpp
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\tile.cpp(12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\tile.cpp(19): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\tile.cpp(19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  sprite.cpp
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\sprite.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\sprite.cpp(28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\sprite.cpp(28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\sprite.cpp(35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  player.cpp
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\player.cpp(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\player.cpp(65): warning C4018: '<': signed/unsigned mismatch
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\player.cpp(70): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\player.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\player.cpp(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\player.cpp(82): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\player.cpp(102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\player.cpp(106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  level.cpp
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\level.cpp(96): warning C4018: '<': signed/unsigned mismatch
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\level.cpp(173): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\level.cpp(191): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\level.cpp(56): warning C4101: 'path': unreferenced local variable
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\level.cpp(209): warning C4018: '<': signed/unsigned mismatch
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\level.cpp(216): warning C4018: '<': signed/unsigned mismatch
+  input.cpp
+  graphics.cpp
+  game.cpp
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\game.cpp(80): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\game.cpp(99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  animatedSprite.cpp
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\animatedsprite.cpp(60): warning C4018: '<': signed/unsigned mismatch
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\animatedsprite.cpp(78): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\users\mrmho\documents\visual studio 2015\projects\cavestory\cavestory\animatedsprite.cpp(79): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
   Cavestory.vcxproj -> D:\Users\mrmho\Documents\Visual Studio 2015\Projects\Cavestory\Debug\Cavestory.exe
   Cavestory.vcxproj -> D:\Users\mrmho\Documents\Visual Studio 2015\Projects\Cavestory\Debug\Cavestory.pdb (Partial PDB)
